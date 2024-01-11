@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "your comment here"
+git push origin <branch name>
